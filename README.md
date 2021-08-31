@@ -7,8 +7,6 @@ This amazing app is provided in open source. So, helpful contributions are highl
 ## ScreenShots
 
 
-
-| --------------------------------------------------------- | --------------------------------------------------------- |
 | <img src="screenshots/login.jpg"  width="300"/> | <img src="screenshots/register.jpg" width="300"/>  |
 
 ---
