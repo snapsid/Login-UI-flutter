@@ -23,7 +23,6 @@ class _MyRegisterState extends State<MyRegister> {
         ),
         body: Stack(
           children: [
-            Container(),
             Container(
               padding: EdgeInsets.only(left: 35, top: 30),
               child: Text(
